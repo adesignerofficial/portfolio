@@ -21,15 +21,21 @@ get_header("front");
 	<div class="row">
 		<div class="col-sm-12 py-2">
 			<div class="brand-name">
-				<a href="/">ADESIGNER</a>
+				<a href="/">
+					<?php echo get_bloginfo( 'name' ); ?>
+				</a>
 			</div>
 			<!-- <?php wp_nav_menu( array( 'container_class' => 'menu-header', 'theme_location' =>   'primary' ) ); ?> -->
 			<ul class="float-right list-inline">
-				<li class="list-inline-item"><a href="/blog" class="text-white">Article</a></li>
+				<li class="list-inline-item"><a href="/blog" class="text-white">
+				<?php	_e("Blog"); ?>
+				</a></li>
 			</ul>
 		</div>
 	</div>
-	<h2 class="hire-me">Hire Me!</h2>
+	<h2 class="hire-me">
+		<?php _e('Hire Me!'); ?>
+	</h2>
 </div>
 <!--END :: Main Header Content -->
 
