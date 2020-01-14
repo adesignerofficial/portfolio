@@ -13,7 +13,7 @@
 <br/>
 							<b>WEB DESIGNING</b>
 						</div>
-							We design website & develop website
+							We design,develop and craft your website professionally.
 						</div>
 						</div>
 					</div>
@@ -78,7 +78,7 @@
 <br/>
 							<b>SUPPORT</b>
 						</div>
-							We provide services to all projects that aare developed by us.
+							We provide services to all projects that are developed by us.
 						</div>
 						</div>
 					</div>
