@@ -21,7 +21,7 @@ get_header("front");
 	<div class="row">
 		<div class="col-sm-12 py-2">
 			<div class="brand-name">
-				<a href="/">
+				<a href="<?php echo get_site_url(); ?>">
 					<?php echo get_bloginfo( 'name' ); ?>
 				</a>
 			</div>
